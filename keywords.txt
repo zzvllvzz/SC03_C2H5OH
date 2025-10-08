@@ -1,0 +1,14 @@
+#######################################
+# Syntax Coloring Map For SC03_C2H5OH
+#######################################
+
+# Datatypes (KEYWORD1)
+SC03_C2H5OH	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+read	KEYWORD2
+calibrate	KEYWORD2
+getHex	KEYWORD2
+getRaw	KEYWORD2
+getValue	KEYWORD2
